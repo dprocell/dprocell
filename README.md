@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## Dara Procell
+
+* Currently in the Weather and Climate Risk Analytics M.S. program at the University of Illinois Urbana Champaign
+* My interests include, numerical weather prediction, WRF, subseasonal forecasting, severe weather
+* My hobbies are distance running, rock climbing, and cycling
+
 <!--
 **dprocell/dprocell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
